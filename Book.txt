@@ -1,0 +1,15 @@
+Crime and Punishment,Fyodor Dostoevsky,1866
+One Hundred Years of Solitude,Gabriel Garcia Marquez,1967,417
+Pride and Prejudice,Jane Austen,1813,279
+The Great Gatsby,F. Scott Fitzgerald,1925,180
+War and Peace,Lev Tolstoy,1869,1,225
+To Kill a Mockingbird,Harper Lee,1960,281
+The Brothers Karamazov,Fyodor Dostoevsky,1880,824
+Great Expectations,Charles Dickens,1860,544
+The Count of Monte Cristo,Alexandre Dumas,1844,1200
+The Catcher in the Rye,J.D. Salinger,1951,224
+The Picture of Dorian Gray,Oscar Wilde,1890,251
+Anna Karenina,Lev Tolstoy,1877,864
+Madame Bovary,Gustave Flaubert,1857,368
+Moby-Dick,Herman Melville,1851,624
+What Men Live By, and Other Tales,Leo Tolstoy,1886,96
