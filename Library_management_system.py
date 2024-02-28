@@ -58,10 +58,18 @@ class library:
             count += 1
 
         index_for_iter = 0
+        flag = False
         for i in self.books:
             if(self.books[index_for_iter][0] == remove_book):
                 del self.books[index_for_iter]
+                print("The book is being removed")
+                flag = True
+                break
             index_for_iter +=1
+        if flag == False:
+            print("Book not found.")
+
+
 
         self.file.close()
         with open("Book.txt", "w") as file:
@@ -118,7 +126,6 @@ while True:
         lib = library(file, write_and_read_mode)
         lib.reading_file()
         lib.remove_book()
-        print("The book is being removed")
         time.sleep(1)
 
     elif(selection == "q"):
